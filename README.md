@@ -1,7 +1,7 @@
 # Chatbot
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
-Author : Vikram somai   submain branch changes v
+Author : Vikram somai   submain branch to fork code
 
 ## Development server
 
